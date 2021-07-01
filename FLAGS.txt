@@ -1,0 +1,16 @@
+
+FLAG de vacaciones: AUX Excede vacaciones? Si --> excedió(advertencia) No---> está ok
+FLAG de examen: AUX Excede dias de examen? Si --> Excedió (advertencia) No --> está ok
+FLAG de feriado: AUX Es feriado? Si--> es feriado (advertencia) No---> No es feriado 
+FLAG 15 dias pre vacaciones: Cantidad de días previos vacaciones Es menor--> no puede pedir en esa fecha(advertencia) Es mayor---> está ok
+FLAG: días de retraso de Certificado < 5 --> ok >5 ---> advertencia 
+
+
+
+
+
+Contactos - 
+Iview con imágenes
+
+
+
